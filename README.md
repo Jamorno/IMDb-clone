@@ -1,4 +1,4 @@
-Project IMDb-clone use Next.js
+Project IMDb-clone practice Next.js and Tailwind
 
 Visted Site https://imdb-clone-jamorno.vercel.app/
 
